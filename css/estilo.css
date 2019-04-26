@@ -1,0 +1,27 @@
+#div1 h1, #div2 h1{
+	
+	color: blue;
+}
+
+table td, th{
+	border: 1px solid;
+}
+
+#cabecalho, #corpo, #rodape{
+	text-shadow: black;
+	border: 1px solid green;
+	padding: 10px;
+	border-collapse: collapse;
+	text-align: center;
+	border: 1px solid;
+
+}
+#corpo{
+	color: gray;
+	margin-top: 30px;
+	margin-bottom: 30px;
+	min-height: 100px;
+}
+#rodape{
+	
+}
