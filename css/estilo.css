@@ -8,7 +8,7 @@ table td, th{
 }
 
 #cabecalho, #corpo, #rodape{
-	text-shadow: black;
+	text-shadow: gray;
 	border: 1px solid green;
 	padding: 10px;
 	border-collapse: collapse;
